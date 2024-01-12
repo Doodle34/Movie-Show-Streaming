@@ -4,5 +4,8 @@ To run this program on your system, you need to install the required dependencie
 ```python3
 pip install requirements.txt
 ```
+```
+pip install requirements.txt
+```
 
 Make a new file '.env' from '.env.example' and add the required API keys.
