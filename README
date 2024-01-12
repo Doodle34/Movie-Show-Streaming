@@ -1,8 +1,8 @@
 ## Movie/Show Streaming
 
 To run this program on your system, you need to install the required dependencies using
-```python3
+```python
 pip install requirements.txt
-
+```
 
 Make a new file '.env' from '.env.example' and add the required API keys.
