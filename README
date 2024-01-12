@@ -1,8 +1,8 @@
-## Movie/Show Streaming
+# Movie/Show Streaming
 
 To run this program on your system, you need to install the required dependencies using:
 
-```bash
+```python3
 pip install -r requirements.txt
 ```
 
